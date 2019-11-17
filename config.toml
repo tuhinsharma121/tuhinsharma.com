@@ -38,12 +38,19 @@ tags = ["widgets",
 features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
             "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
 
+
+[params]
+  # Some other stuff...
+
+  email = "lmyint@macalester.edu"
+
 [author]
   name = "Tuhin Sharma"
-  homepage = "https://georgecushen.com"
+  homepage = "https://www.tuhinsharma.com"
 
 # If porting an existing theme
 [original]
   name = ""
   homepage = ""
   repo = ""
+

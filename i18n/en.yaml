@@ -172,6 +172,9 @@
 - id: pub_patent
   translation: Patent
 
+- id: pub_blog
+  translation: Blog
+
 # Project details
 
 - id: open_project_site

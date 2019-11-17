@@ -5,7 +5,6 @@ title = "Tuhin Sharma"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-theme = "sustain"
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
@@ -20,13 +19,11 @@ theme = "sustain"
   custom_js  = []
 
 [params.social]
-  Github        = "username"
-  Email         = "email@example.com"
-  Twitter       = "username"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
-  Medium        = "username"
-  Telegram      = "username"
+  Github        = "tuhinsharma121"
+  Email         = "tuhinsharma121@gmail.com"
+  Twitter       = "tuhinsharma121"
+  LinkedIn      = "tuhinsharma121"
+  Telegram      = "tuhinsharma121"
 
 ## Main Menu
 [[menu.main]]
@@ -35,15 +32,10 @@ theme = "sustain"
   identifier = "blog"
   url = "/blog/"
 [[menu.main]]
-  name = "project"
-  identifier = "project"
+  name = "projects"
+  identifier = "projects"
   weight = 200
-  url = "/project/"
-[[menu.main]]
-  name = "resume"
-  identifier = "resume"
-  weight = 300
-  url = "/resume/"
+  url = "/projects/"
 [[menu.main]]
   name = "blah"
   identifier = "blah"

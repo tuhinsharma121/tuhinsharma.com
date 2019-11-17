@@ -1,31 +1,29 @@
-{{ partial "head" . }}
-  <body>
-    <div id="wrap">
-      <!-- Header -->
-      {{ partial "header" . }}
-      <div class="container">
-        <h3>Archive</h3>
-          <div class="panel panel-default">
-            <div class="panel-body">
-            {{ range .Data.Pages.ByPublishDate.Reverse }}
-              <div class="row">
-                <div class="col-sm-4 col-md-4 col-lg-4">
-                  <h5 style="text-align: right">
-                    {{ .Date.Format "January 2, 2006" }}
-                  </h5>
-                 </div>
-                 <div class="col-sm-8 col-md-8 col-lg-8">
-                   <h5 style="text-align: left">
-                    <strong><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></strong>
-                  </h5>
-                </div>
-              </div>
-            {{ end }}
-            </div>
-          </div>
-      </div>
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  {{ with .Content }}
+  <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+  {{ $paginator := .Paginate .Data.Pages }}
+  {{ range $paginator.Pages }}
+  <div>
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <div class="article-style">
+      {{ if .Params.summary }}
+      {{ .Params.summary | plainify | emojify }}
+      {{ else if .Params.abstract }}
+      {{ .Params.abstract | plainify | emojify | truncate 250 }}
+      {{ else if .Summary }}
+      {{ .Summary | plainify | emojify }}
+      {{ end }}
     </div>
-    <!-- Footer -->
-    {{ partial "footer" . }}
-  </body>
-</html>
+  </div>
+  {{ end }}
+
+  {{ partial "pagination" . }}
+</div>
+
+{{- end -}}

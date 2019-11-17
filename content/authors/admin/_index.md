@@ -28,15 +28,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: MTech in CSE
+    institution: Indian Institute of Technology Roorkee
+    year: 2014
+  - course: BE in CSE
+    institution: Indian Institute of Engineering Science and Technology Shibpur
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,21 +42,27 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:tuhinsharma121@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/tuhinsharma121
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=7Wwa3zMAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tuhinsharma121
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/tuhinsharma121
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/tuhinsharma121
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "tuhinsharma121@gmail.com"
@@ -71,6 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Tuhin Sharma is Co-Founder and CTO of Binaize, an AI based Network Intelligence product for IIoT. He worked in IBM Watson and RedHat as Data Scientist where he mainly worked on Social Media Analytics, Demand Forecasting, Retail Analytics and Customer Analytics. He also worked at multiple start ups where he built personalized recommendation systems to maximize customer engagement with the help of ML and DL techniques across multiple domains like FinTech, EdTech, Media, E-comm etc. He has filed 5 patents and published 4 research papers in the field of ML and NLP. Apart from this, He loves to play table tennis and guitar in his leisure time. His favourite quote is "Life is Beautiful."

@@ -34,7 +34,7 @@ googleAnalytics = ""
 [[menu.main]]
   name = "projects"
   identifier = "projects"
-  weight = 200
+  weight = 100
   url = "/projects/"
 [[menu.main]]
   name = "blah"

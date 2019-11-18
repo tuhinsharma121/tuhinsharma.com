@@ -18,13 +18,16 @@ organizations:
   url: "https://www.binaize.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Distributed Computing, AI and NLP.
+bio: My research interests include AI, NLP and Distributed Computing.
 
 interests:
 - Artificial Intelligence
 - Natural Language Processing
 - Information Retrieval
 - Distributed Computing
+
+tools:
+- fsd
 
 education:
   courses:

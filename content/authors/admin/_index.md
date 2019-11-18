@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: MTech in CSE
+  - course: MTech in Computer Science
     institution: Indian Institute of Technology Roorkee
     year: 2014
-  - course: BE in CSE
+  - course: BE in Computer Science
     institution: Indian Institute of Engineering Science and Technology Shibpur
     year: 2012
 
@@ -46,9 +46,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tuhinsharma121
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=7Wwa3zMAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/tuhinsharma121

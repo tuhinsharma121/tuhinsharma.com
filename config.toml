@@ -39,10 +39,6 @@ features = ["page builder", "widgets", "themes", "search", "research publication
             "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
 
 
-[params]
-  # Some other stuff...
-
-  email = "lmyint@macalester.edu"
 
 [author]
   name = "Tuhin Sharma"

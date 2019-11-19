@@ -102,7 +102,7 @@
   translation: Patent
 - id: open_project_site
   translation: Projenin sayfasına git
-- id: posts
+- id: post
   translation: Blog içerikleri
 - id: publications
   translation: Yayınlar

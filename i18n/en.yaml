@@ -97,7 +97,7 @@
   translation: See all
 
 - id: more_posts
-  translation: See all posts
+  translation: See all post
 
 - id: more_talks
   translation: See all talks
@@ -182,7 +182,7 @@
 
 # Default titles for archive pages
 
-- id: posts
+- id: post
   translation: Posts
 
 - id: publications

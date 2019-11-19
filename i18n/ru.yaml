@@ -102,7 +102,7 @@
   translation: Патент
 - id: open_project_site
   translation: Перейти на сайт проекта
-- id: posts
+- id: post
   translation: Статьи
 - id: publications
   translation: Публикации

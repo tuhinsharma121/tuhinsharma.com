@@ -1,5 +1,8 @@
 ---
 title: Anomaly Detection in Smart Buildings using Federated Learning
+authors:
+- admin
+- Bargava Subramanian
 event: O'reilly AI London 2019
 event_url: https://conferences.oreilly.com/artificial-intelligence/ai-eu/public/schedule/detail/78152
 location: 225 Edgware Road, Paddington, London W2 1JU, United Kingdom
@@ -19,7 +22,6 @@ all_day: false
 publishDate: "2018-11-01T00:00:00Z"
 
 
-authors: []
 tags: []
 
 # Is this a featured talk? (true/false)

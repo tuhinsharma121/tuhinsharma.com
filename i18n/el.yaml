@@ -102,7 +102,7 @@
   translation: Patent
 - id: open_project_site
   translation: Προς ιστοσελίδα ερευνητικού προγράμματος
-- id: posts
+- id: post
   translation: Αναρτήσεις
 - id: publications
   translation: Δημοσιεύσεις

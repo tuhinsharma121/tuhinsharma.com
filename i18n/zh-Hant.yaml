@@ -179,7 +179,7 @@
 
 # Default titles for archive pages
 
-- id: posts
+- id: post
   translation: 文章
 
 - id: publications

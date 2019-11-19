@@ -104,7 +104,7 @@
   translation: Patent
 - id: open_project_site
   translation: Zur Projektseite
-- id: posts
+- id: post
   translation: Blog
 - id: publications
   translation: Publikationen

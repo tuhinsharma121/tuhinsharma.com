@@ -1,5 +1,8 @@
 ---
 title: Federated Learning using Deep Learning
+authors:
+- admin
+- Bargava Subramanian
 event: Datahack Summit 2019
 event_url: https://www.analyticsvidhya.com/datahack-summit-2019/schedule/hack-session-secure-and-privacy-preserving-deep-learning-using-federated-learning/
 location: NIMHANS Convention Centre, Hosur Main Road, Lakkasandra, Hombegowda Nagar, Bengaluru - 560029, Karnataka, India.
@@ -7,7 +10,6 @@ location: NIMHANS Convention Centre, Hosur Main Road, Lakkasandra, Hombegowda Na
 
 summary: Building classification models using FL and DL.
 abstract: "Federated Learning is a machine learning setting where the goal is to train a high-quality centralized model with training data distributed over a large number of clients each with unreliable and relatively slow network connections."
-
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -19,7 +21,6 @@ all_day: false
 publishDate: "2018-11-01T00:00:00Z"
 
 
-authors: []
 tags: []
 
 # Is this a featured talk? (true/false)

@@ -6,24 +6,23 @@
 
 #[[main]]
 #  name = "Posts"
-#  url = "#posts"
+#  url = "#post"
 #  weight = 20
 
-[[main]]
-  name = "Opensource"
-  url = "opensource/"
-  weight = 10
+#[[main]]
+#  name = "Opensource"
+#  url = "opensource/"
+#  weight = 10
 
-[[main]]
-  name = "Publications"
-  url = "publications/"
-  weight = 20
+#[[main]]
+#  name = "Publications"
+#  url = "publications/"
+#  weight = 20
 
-
-[[main]]
-  name = "Patents"
-  url = "patents/"
-  weight = 30
+#[[main]]
+#  name = "Patents"
+#  url = "patents/"
+#  weight = 30
 
 [[main]]
   name = "Blogs"

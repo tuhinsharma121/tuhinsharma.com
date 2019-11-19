@@ -1,5 +1,7 @@
 ---
 title: Hybrid Recommendation Systems in News Media using Probabilistic Graphical Models
+authors:
+- admin
 event: ODSC India 2018
 event_url: https://confengine.com/odsc-india-2018/proposal/7098/hybrid-recommendation-systems-in-news-media-using-probabilistic-graphical-models
 location: 26 / 1 Dr. Rajkumar Road Malleswaram, Rajajinagar, Bengaluru - 560055, Karnataka, India
@@ -19,7 +21,6 @@ all_day: false
 publishDate: "2018-11-01T00:00:00Z"
 
 
-authors: []
 tags: []
 
 # Is this a featured talk? (true/false)

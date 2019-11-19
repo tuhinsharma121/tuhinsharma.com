@@ -102,7 +102,7 @@
   translation: Patent
 - id: open_project_site
   translation: 프로젝트 사이트로 가기
-- id: posts
+- id: post
   translation: 포스트
 - id: publications
   translation: 논문

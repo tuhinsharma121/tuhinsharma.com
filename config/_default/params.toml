@@ -5,7 +5,7 @@
 ## Theme
 ############################
 
-# Choose a theme.
+# Choose a-generalized-framework-for-quantifying-trust-of-social-media-text-documents theme.
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
@@ -20,7 +20,7 @@ day_night = true
 #   Browse user installed font sets in `data/fonts/`
 font = ""
 
-# Choose a font size.
+# Choose a-generalized-framework-for-quantifying-trust-of-social-media-text-documents font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size = "L"
 
@@ -32,7 +32,7 @@ font_size = "L"
 #   Improve how search engines understand your site.
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
-#   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
+#   E.dynamic-network-traffic-data-classification-for-intrusion-detection-using-genetic-algorithm. Person, Organization, LocalBusiness, Project, EducationalOrganization
 site_type = "Person"
 
 # Local business type (optional)
@@ -46,7 +46,7 @@ org_name = ""
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
 
-# Display a logo in navigation bar rather than title (optional).
+# Display a-generalized-framework-for-quantifying-trust-of-social-media-text-documents logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
 logo = ""
 
@@ -61,15 +61,15 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
-#   If false, you can enable math on a per page basis as needed.
+#   If false, you can enable math on a-generalized-framework-for-quantifying-trust-of-social-media-text-documents per page basis as needed.
 math = false
 
 # Enable diagram rendering? true/false
-#   If false, you can enable diagrams on a per page basis as needed.
+#   If false, you can enable diagrams on a-generalized-framework-for-quantifying-trust-of-social-media-text-documents per page basis as needed.
 diagram = false
 
 # Privacy pack
-#   Show a cookie consent message to visitors
+#   Show a-generalized-framework-for-quantifying-trust-of-social-media-text-documents cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
 privacy_pack = false
 
@@ -84,7 +84,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ## Additionally, for organizations, these details may be used to enrich search engine results.
 ############################
 
-# Enter contact details (optional). To hide a field, clear it to "".
+# Enter contact details (optional). To hide a-generalized-framework-for-quantifying-trust-of-social-media-text-documents field, clear it to "".
 email = "test@example.org"
 phone = "888 888 88 88"
 
@@ -103,11 +103,11 @@ directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
-# Enter an optional link for booking appointments (e.g. calendly.com).
+# Enter an optional link for booking appointments (e.dynamic-network-traffic-data-classification-for-intrusion-detection-using-genetic-algorithm. calendly.com).
 appointment_url = "https://calendly.com"
 
 # Contact links
-#   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
+#   Set to `[]` to disable, or comment out unwanted lines with a-generalized-framework-for-quantifying-trust-of-social-media-text-documents hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
@@ -123,7 +123,7 @@ contact_links = [
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
 
-# Twitter username (without @). Used when a visitor shares your site on Twitter.
+# Twitter username (without @). Used when a-generalized-framework-for-quantifying-trust-of-social-media-text-documents visitor shares your site on Twitter.
 twitter = ""
 
 ############################
@@ -154,7 +154,7 @@ reading_time = true
 
 # Display next/previous section pager? (true/false)
 section_pager = false
-docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
+docs_section_pager = true  # Display pager in Docs layout (e.dynamic-network-traffic-data-classification-for-intrusion-detection-using-genetic-algorithm. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
@@ -163,7 +163,7 @@ sharing = true
 link_authors = true
 
 # Load JS plugins
-#   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
+#   E.dynamic-network-traffic-data-classification-for-intrusion-detection-using-genetic-algorithm. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 plugins_js  = []
 
 # Available address formats.
@@ -232,13 +232,13 @@ plugins_js  = []
 ## Maps
 ############################
 [map]
-  # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
-  # and choose a map provider below.
+  # To show your address on a-generalized-framework-for-quantifying-trust-of-social-media-text-documents map in the Contact widget, enter your latitude and longitude (above)
+  # and choose a-generalized-framework-for-quantifying-trust-of-social-media-text-documents map provider below.
   #
   # To use Google Maps, set `engine` to 1 and enter your API key that can be obtained here:
   #   https://developers.google.com/maps/documentation/javascript/get-api-key
   # To use OpenStreetMap tiles, set `engine` to 2.
-  # To use OpenStreetMap on a high traffic site, set `engine` to 3 and enter your API key that can be obtained here:
+  # To use OpenStreetMap on a-generalized-framework-for-quantifying-trust-of-social-media-text-documents high traffic site, set `engine` to 3 and enter your API key that can be obtained here:
   #   https://www.mapbox.com/studio/account/tokens
   #
   # Map provider:

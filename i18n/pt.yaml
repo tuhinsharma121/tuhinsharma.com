@@ -123,7 +123,7 @@
 - id: 404_recommendations
   translation: Você está procurando por um desses?
 - id: cookie_message
-  translation: Este site contém cookies para garantir que você tenha a melhor experência.
+  translation: Este site contém cookies para garantir que você tenha a-generalized-framework-for-quantifying-trust-of-social-media-text-documents melhor experência.
 - id: cookie_dismiss
   translation: Entendi!
 - id: cookie_learn

@@ -1,9 +1,12 @@
 ---
 title: Uncovering hidden patterns through machine learning
 authors:
-- Bargava Subramanian
 - admin
-
+- Bargava Subramanian
+tags:
+- Deep Learning
+- MXnet
+- O'reilly
 summary: Solving Fizzbuzz problem using Apache MxNet.
 
 # Talk start and end times.
@@ -13,12 +16,15 @@ date: "2017-12-21T14:15:00Z"
 # Schedule page publish date (NOT talk date).
 publishDate: "2018-11-01T00:00:00Z"
 
-
-tags: []
-
 # Is this a featured talk? (true/false)
 featured: false
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**pixabay**](https://pixabay.com/photos/manhole-covers-gulli-gullideckel-293578/)'
+  focal_point: ""
+  preview_only: false
 
 
 #links:

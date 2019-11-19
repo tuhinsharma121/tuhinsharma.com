@@ -5,6 +5,8 @@ authors:
 - Bargava Subramanian
 tags:
 - Deep Learning
+- MXnet
+- O'reilly
 summary: Detecting Company logos using Apache MxNet.
 
 # Talk start and end times.
@@ -14,13 +16,16 @@ date: "2018-02-01T14:15:00Z"
 # Schedule page publish date (NOT talk date).
 publishDate: "2018-11-01T00:00:00Z"
 
-
-tags: []
  
 # Is this a featured talk? (true/false)
 featured: false 
 
-
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**pixabay**](https://pixabay.com/illustrations/apps-social-media-networks-internet-426559/)'
+  focal_point: ""
+  preview_only: false
 
 #links:
 #- icon: twitter

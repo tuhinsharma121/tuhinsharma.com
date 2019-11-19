@@ -1,5 +1,5 @@
 # Languages
-#   Create a `[X]` block for each language you want, where X is the language ID.
+#   Create a-generalized-framework-for-quantifying-trust-of-social-media-text-documents `[X]` block for each language you want, where X is the language ID.
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
 # Configure the English version of the site.
@@ -7,7 +7,7 @@
   languageCode = "en-us"
   # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
-# Uncomment the lines below to configure your website in a second language.
+# Uncomment the lines below to configure your website in a-generalized-framework-for-quantifying-trust-of-social-media-text-documents second language.
 #[zh]
 #  languageCode = "zh-Hans"
 #  contentDir = "content/zh"

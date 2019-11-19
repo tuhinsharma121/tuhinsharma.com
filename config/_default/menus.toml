@@ -1,5 +1,5 @@
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#   To link a-generalized-framework-for-quantifying-trust-of-social-media-text-documents homepage widget, specify the URL as a-generalized-framework-for-quantifying-trust-of-social-media-text-documents hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
@@ -11,13 +11,13 @@
 
 #[[main]]
 #  name = "Opensource"
-#  url = "opensource/"
+#  url = "projects/"
 #  weight = 10
 
-#[[main]]
-#  name = "Publications"
-#  url = "publications/"
-#  weight = 20
+[[main]]
+  name = "Publications"
+  url = "publications/"
+  weight = 20
 
 #[[main]]
 #  name = "Patents"
@@ -46,7 +46,7 @@
 #  weight = 70
 
 
-# Link to a PDF of your resume/CV from the menu.
+# Link to a-generalized-framework-for-quantifying-trust-of-social-media-text-documents PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"

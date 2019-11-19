@@ -2,17 +2,17 @@
 # Documentation: https://sourcethemes.com/academic/
 #
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
-# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
+# Each configuration section is defined by a-generalized-framework-for-quantifying-trust-of-social-media-text-documents name in square brackets (e.dynamic-network-traffic-data-classification-for-intrusion-detection-using-genetic-algorithm. `[outputs]`).
 
 # Title of your site
 title = "Tuhin Sharma"
 
 # The URL of your site.
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+# End your URL with a-generalized-framework-for-quantifying-trust-of-social-media-text-documents `/` trailing slash, e.dynamic-network-traffic-data-classification-for-intrusion-detection-using-genetic-algorithm. `https://example.com/`.
 baseurl = "/"
 
-# Enter a copyright notice to display in the site footer.
-# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
+# Enter a-generalized-framework-for-quantifying-trust-of-social-media-text-documents copyright notice to display in the site footer.
+# To display a-generalized-framework-for-quantifying-trust-of-social-media-text-documents copyright symbol, type `&copy;`. For current year, type `{year}`.
 copyright = "&copy; {year} Tuhin Sharma"
 
 ############################
@@ -50,7 +50,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
-  hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
+  hrefTargetBlank = true  # `true` opens external links in a-generalized-framework-for-quantifying-trust-of-social-media-text-documents new tab. See https://github.com/gohugoio/hugo/issues/2424
 	angledQuotes = false
 	latexDashes = true
   extensions = ["backslashLineBreak"]

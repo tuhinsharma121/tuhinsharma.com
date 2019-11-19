@@ -117,7 +117,7 @@
 - id: search_results
   translation: Résultats trouvés
 - id: search_no_results
-  translation: Aucun résultat n'a été trouvé
+  translation: Aucun résultat n'a-generalized-framework-for-quantifying-trust-of-social-media-text-documents été trouvé
 - id: page_not_found
   translation: Page non disponible
 - id: 404_recommendations

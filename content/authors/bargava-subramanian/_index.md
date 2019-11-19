@@ -18,11 +18,6 @@ organizations:
   url: "https://www.binaize.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI, NLP and Distributed Computing.
-
-
-
-
 
 
 # Social/Academic Networking

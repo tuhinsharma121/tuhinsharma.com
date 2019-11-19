@@ -21,7 +21,7 @@ all_day: false
 publishDate: "2018-11-01T00:00:00Z"
 
 
-tags: []
+tags: [latest]
 
 # Is this a featured talk? (true/false)
 featured: false

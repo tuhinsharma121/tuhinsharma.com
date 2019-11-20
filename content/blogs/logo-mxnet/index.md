@@ -60,4 +60,4 @@ Given an image, identify which company's logo is present.
 
 The article will motivate the business problem, how to get data, how to use MXNet to build the deep learning model
 
-[<h2>Link to the Blog</h2>](https://www.oreilly.com/ideas/logo-detection-using-apache-mxnet)
+[<p>Read more..</p>](https://www.oreilly.com/ideas/logo-detection-using-apache-mxnet)

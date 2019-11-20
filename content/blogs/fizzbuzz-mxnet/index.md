@@ -59,4 +59,4 @@ math: true
 FizzBuzz problem was made popular by Joel Grus' [post](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/) on tensorflow. This article shows how to model fizzbuzz using MXNet. This article shows how to use the basic building blocks of MXNet (autograd etc.) to build a network from scratch. It then goes to show how to use higher level APIs in MXNet to achieve the same. 
 
 
-[<h2>Link to the Blog</h2>](https://www.oreilly.com/radar/uncovering-hidden-patterns-through-machine-learning/)
+[<p>Read more..</p>](https://www.oreilly.com/radar/uncovering-hidden-patterns-through-machine-learning/)

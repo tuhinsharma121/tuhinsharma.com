@@ -1,17 +1,16 @@
 ---
-title: Uncovering hidden patterns through machine learning
+title: Mitigation of perishable product waste through promotion recommendation
 authors:
 - admin
-- Bargava Subramanian
 tags:
-- Deep Learning
-- MXnet
-- O'reilly
-summary: Solving Fizzbuzz problem using Apache MxNet.
+- Promotion Recommendation
+- Perisable Product
+- Optimization
+summary: Embodiments of the present invention disclose a method, computer program product, and system for generating a schedule for promotions using promotional windows.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-12-21T14:15:00Z"
+date: "2017-11-20T14:15:00Z"
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2018-11-01T00:00:00Z"
@@ -22,7 +21,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**pixabay**](https://pixabay.com/photos/manhole-covers-gulli-gullideckel-293578/)'
+  caption: 'Image credit: [**pixabay**](https://pixabay.com/photos/cheese-food-nutrition-dish-1961530/)'
   focal_point: ""
   preview_only: false
 
@@ -32,8 +31,6 @@ image:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/tuhinsharma121
-url_code: "https://github.com/tuhinsharma121/mxnetdemystified"
-url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -56,7 +53,8 @@ math: true
 
 <h2>Description</h2>
 
-FizzBuzz problem was made popular by Joel Grus' [post](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/) on tensorflow. This article shows how to model fizzbuzz using MXNet. This article shows how to use the basic building blocks of MXNet (autograd etc.) to build a network from scratch. It then goes to show how to use higher level APIs in MXNet to achieve the same. 
+The present invention relates generally to the field of computer data modeling, and more particularly to model generation of the effects of external events on consumer-packaged goods.
 
+Perishable items are often put on clearance sale when it nears expiry date in order to clear inventory, maximize profits, or minimize loss of product. Typically, products are discarded if not sold be the expiration date. Promotions, such as putting items on “sale” or “clearance,” are used to avoid having to discard the expired items. It may be advantageous to determine an optimal promotion time frame or window to maximize profits and minimize waste.
 
-[<p>**Read more..**</p>](https://www.oreilly.com/radar/uncovering-hidden-patterns-through-machine-learning/)
+[<p>**Read more..**</p>](https://patents.google.com/patent/US20190156369A1)

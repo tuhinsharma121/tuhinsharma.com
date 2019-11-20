@@ -1,17 +1,17 @@
 ---
-title: Uncovering hidden patterns through machine learning
+title: Enabling wearables to cognitively alter notifications and improve sleep cycles
 authors:
 - admin
-- Bargava Subramanian
 tags:
-- Deep Learning
-- MXnet
-- O'reilly
-summary: Solving Fizzbuzz problem using Apache MxNet.
+- IoT
+- Healthcare
+- Smart Watch
+- Optimization
+summary: A method, computer system, and computer program product for cognitively adjusting a notification alert delivery time are provided.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-12-21T14:15:00Z"
+date: "2017-10-19T14:15:00Z"
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2018-11-01T00:00:00Z"
@@ -32,8 +32,6 @@ image:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/tuhinsharma121
-url_code: "https://github.com/tuhinsharma121/mxnetdemystified"
-url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -56,7 +54,6 @@ math: true
 
 <h2>Description</h2>
 
-FizzBuzz problem was made popular by Joel Grus' [post](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/) on tensorflow. This article shows how to model fizzbuzz using MXNet. This article shows how to use the basic building blocks of MXNet (autograd etc.) to build a network from scratch. It then goes to show how to use higher level APIs in MXNet to achieve the same. 
+According to one embodiment, a method, computer system, and computer program product for cognitively adjusting a notification alert delivery time are provided. The embodiment may include receiving a message notification from a sender. The embodiment may also include determining an importance of the received message notification based on a plurality of notification attributes and a plurality of person attributes that are each associated with the received message notification. The embodiment may further include, in response to determining to alert a user of the received message notification based on the determined importance, identifying a current user sleep stage. The embodiment may also include, in response to determining the current user sleep stage will minimally impact the user, transmitting the received message notification to a user device
 
-
-[<p>**Read more..**</p>](https://www.oreilly.com/radar/uncovering-hidden-patterns-through-machine-learning/)
+[<p>**Read more..**</p>](https://patents.google.com/patent/US20190124032A1)

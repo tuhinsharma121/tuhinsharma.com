@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Patents
 
 # View.
 #   1 = List

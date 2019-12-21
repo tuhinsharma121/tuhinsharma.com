@@ -85,3 +85,5 @@ The speakers discuss their architecture and also show how federated learning can
 <h2>Presentation Video</h2>
 
 Coming soon!!
+
+{{< youtube 6S3R2pOyyxo >}}

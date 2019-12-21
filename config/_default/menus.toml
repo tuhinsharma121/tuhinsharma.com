@@ -40,10 +40,10 @@
 #  weight = 100
 
 
-#[[main]]
-#  name = "Chill"
-#  url = "chill/"
-#  weight = 70
+[[main]]
+  name = "Contact"
+  url = "contact/"
+  weight = 70
 
 
 # Link to a-generalized-framework-for-quantifying-trust-of-social-media-text-documents PDF of your resume/CV from the menu.

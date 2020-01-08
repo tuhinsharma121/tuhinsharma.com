@@ -10,6 +10,8 @@ location: 26 / 1 Dr. Rajkumar Road Malleswaram, Rajajinagar, Bengaluru - 560055,
 summary: Combining the power of Content based and Collaborative filtering approaches.
 abstract: "Recommendation System belongs to the class of Information Retrieval, Data Mining and Machine Learning. Recommender systems play a major role in today's ecommerce industry. Recommender systems recommend items to users such as books, movies, videos, electronic products and many other products in general."
 
+tags: [odscindia2018]
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

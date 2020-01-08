@@ -12,8 +12,8 @@ abstract: "Federated Learning is a machine learning setting where the goal is
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-11-13T14:15:00Z"
-date_end: "2019-11-13T15:15:00Z"
+date: "2020-04-21T14:15:00Z"
+date_end: "2020-04-21T15:15:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

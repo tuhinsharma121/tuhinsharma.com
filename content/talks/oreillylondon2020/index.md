@@ -2,8 +2,9 @@
 title: Writer Independent Offline Signature Verification in Banks using Few Shot Learning.
 authors:
 - admin
+- pravin-jha
 event: Strata Data and AI Conference
-event_url: https://conferences.oreilly.com/strata-data-ai/stai-eu/public/schedule/speaker/339708
+event_url: https://conferences.oreilly.com/strata-data-ai/stai-eu/public/schedule/detail/82680
 location: Excel London, One Western Gateway, Royal Victoria Dock, London, E16 1XL, UK
 
 
@@ -12,8 +13,8 @@ abstract: "Federated Learning is a machine learning setting where the goal is
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-04-21T14:15:00Z"
-date_end: "2020-04-21T15:15:00Z"
+date: "2020-04-23T16:35:00Z"
+date_end: "2020-04-23T17:15:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

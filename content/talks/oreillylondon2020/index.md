@@ -9,7 +9,7 @@ location: Excel London, One Western Gateway, Royal Victoria Dock, London, E16 1X
 
 
 summary: Offline signature verification is one of the most critical tasks in traditional banking and financial industries. The unique challenge is to detect subtle but crucial differences between genuine and forged signatures. This verification task is even more challenging in writer independent scenarios, which is undeniably fiscal to most of the use cases.
-abstract: "Federated Learning is a machine learning setting where the goal is to train a high-quality centralized model with training data distributed over a large number of clients each with unreliable and relatively slow network connections."
+abstract: "Offline signature verification is one of the most critical tasks in traditional banking and financial industries. The unique challenge is to detect subtle but crucial differences between genuine and forged signatures. This verification task is even more challenging in writer independent scenarios, which is undeniably fiscal to most of the use cases."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

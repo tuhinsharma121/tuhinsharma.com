@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Co-Founder and CTO
+role: Co-Founder and CEO
 
 # Organizations/Affiliations
 organizations:

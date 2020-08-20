@@ -26,8 +26,6 @@ interests:
 - Information Retrieval
 - Distributed Computing
 
-tools:
-- fsd
 
 education:
   courses:
@@ -55,23 +53,23 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/tuhinsharma121
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/tuhinsharma121
+#- icon: instagram
+#  icon_pack: fab
+#  link: https://www.instagram.com/tuhinsharma121
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "tuhinsharma121@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 Tuhin Sharma is Co-Founder and CEO of Binaize, a website conversion intelligence product for E-Commerce SMBs. He worked in IBM Watson and RedHat as Data Scientist where he mainly worked on Social Media Analytics, Demand Forecasting, Retail Analytics and Customer Analytics. He also worked at multiple start ups where he built personalized recommendation systems to maximize customer engagement with the help of ML and DL techniques across multiple domains like FinTech, EdTech, Media, E-comm etc. He has filed 5 patents and published 4 research papers in the field of ML and NLP. Apart from this, He loves to play table tennis and guitar in his leisure time. His favourite quote is "Life is Beautiful."

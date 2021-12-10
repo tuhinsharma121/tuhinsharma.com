@@ -1,13 +1,12 @@
 ---
-title: Signature Verification system using Siamese Networks
+title: Federated Learning for Anomaly Detection in Smart Buildings
 authors:
 - admin
-- Pravin Jha
 tags:
 - Deep Learning
-- MXnet
-- O'reilly
-summary: Detecting Company logos using Apache MxNet.
+- Pytorch
+- Pyshyft
+summary: Coming Soon.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -23,7 +22,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**pixabay**](https://pixabay.com/photos/wedding-best-man-signature-formal-5202666/)'
+  caption: 'Image credit: [**pixabay**](https://pixabay.com/illustrations/home-smart-automation-house-system-4100193/)'
   focal_point: ""
   preview_only: false
 
@@ -32,7 +31,7 @@ image:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/tuhinsharma121
-url_code: "https://github.com/tuhinsharma121/mxnetdemystified"
+url_code: ""
 url_video: ""
 
 # Markdown Slides (optional).
@@ -56,8 +55,4 @@ math: true
  
 <h2>Description</h2>
 
-Given an image, identify which company's logo is present.
-
-The article will motivate the business problem, how to get data, how to use MXNet to build the deep learning model
-
-[<p>**Read more..**</p>](https://www.oreilly.com/ideas/logo-detection-using-apache-mxnet)
+Coming Soon!

@@ -71,6 +71,8 @@ The speakers will discuss the following:-
 6. How to serve such model in real time.
 7. Pros and Cons of our approach.
 
-<p>Presentation Video</p>
+<p>Presentation Video </p>
+
+
 
 TBA!!

@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: AI Architect
+role: Senior Principal Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Hypersonix Inc.
-  url: "https://hypersonix.ai"
+- name: Redhat
+  url: "https://redhat.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include AI, NLP and Distributed Computing.
@@ -23,7 +23,6 @@ bio: My research interests include AI, NLP and Distributed Computing.
 interests:
 - Artificial Intelligence
 - Natural Language Processing
-- Information Retrieval
 - Distributed Computing
 
 
@@ -72,4 +71,4 @@ email: "tuhinsharma121@gmail.com"
 #- Visitors
 ---
 
-Tuhin Sharma is AI Architect at Hypersonix, an Intelligence product for Enterprises with AI-driven Augmented Analytics. Prior that, he founded Binaize, an AI based website conversion product for E-Commerce SMBs. He worked in IBM Watson and RedHat as Data Scientist. He helped multiple startups build personalized recommendation systems to maximize customer engagement using AI across multiple domains like EdTech, Media, E-comm etc. He has filed 5 US patents and published 4 research papers in the field of Machine Learning and Natural Language Processing. He writes Deep Learning articles for O’reilly. Apart from this, He loves to play table tennis and guitar in his leisure time. His favourite quote is "Life is Beautiful."
+Tuhin Sharma is currently working as Senior Principal Data Scientist in the strategy team at Redhat. Previously, he worked as AI Architect at Hypersonix, an Intelligence product for Enterprises with AI-driven Augmented Analytics. Prior that, he founded Binaize, an AI based website conversion product for E-Commerce SMBs. He worked in IBM Watson and RedHat as Data Scientist. He helped multiple startups build personalized recommendation systems to maximize customer engagement using AI across multiple domains like EdTech, Media, E-comm etc. He has filed 5 US patents and published 4 research papers in the field of Machine Learning and Natural Language Processing. He writes Deep Learning articles for O’reilly. Apart from this, He loves to play table tennis and guitar in his leisure time. His favourite quote is "Life is Beautiful."

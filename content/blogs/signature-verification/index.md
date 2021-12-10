@@ -5,9 +5,7 @@ authors:
 - Pravin Jha
 tags:
 - Deep Learning
-- MXnet
-- O'reilly
-summary: Detecting Company logos using Apache MxNet.
+summary: Coming Soon!
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -56,8 +54,4 @@ math: true
  
 <h2>Description</h2>
 
-Given an image, identify which company's logo is present.
-
-The article will motivate the business problem, how to get data, how to use MXNet to build the deep learning model
-
-[<p>**Read more..**</p>](https://www.oreilly.com/ideas/logo-detection-using-apache-mxnet)
+Coming Soon!

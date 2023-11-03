@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "dhsindia2019"
+    tag = "odsceurope2022"
     category = ""
     publication_type = ""
     exclude_featured = false
